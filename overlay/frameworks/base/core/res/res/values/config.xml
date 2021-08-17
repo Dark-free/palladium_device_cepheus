@@ -1077,8 +1077,7 @@
          1: 2 button mode (back, home buttons + swipe up for overview)
          2: gestures only for back, home and overview -->
     <integer name="config_navBarInteractionMode">2</integer>
-<<<<<<< HEAD
-     
+
          <bool name="config_cleanupUnusedFingerprints">true</bool>
 
      <!-- Shows the required view for in-display fingerprint -->
@@ -1086,18 +1085,8 @@
 
     <!-- Show a custom view for FOD -->
     <bool name="config_needCustomFODView">true</bool>
-=======
 
     <!-- Flag indicating whether we should enable the adaptive sleep.-->
     <bool name="config_adaptive_sleep_available">true</bool>
->>>>>>> e87eb9f (cepheus: overlay: Enable adaptive sound and screen attention)
 </resources>
-
-	<bool name="config_cleanupUnusedFingerprints">true</bool>
-
-     <!-- Shows the required view for in-display fingerprint -->
-    <bool name="config_supportsInDisplayFingerprint">true</bool>
-
-    <!-- Show a custom view for FOD -->
-    <bool name="config_needCustomFODView">true</bool>
 	
